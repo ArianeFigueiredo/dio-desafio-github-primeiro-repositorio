@@ -2,4 +2,4 @@
 Repósitório criado para o Desafio de Projeto Git/Github
 
 ## Links úteis
-[Sintaxe-basica-Makdown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe-basica-Markdown](https://www.markdownguide.org/basic-syntax/)
